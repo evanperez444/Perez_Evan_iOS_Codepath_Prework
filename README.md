@@ -18,21 +18,21 @@ The following **required** functionality is completed:
 
 Favorite Features of some Apps:
 
-- Forest App
+**Forest App**
 * Set a timer and grow a virtual tree while they study/focus on a task
 * Earn points based on how long they have focused which can later be user to purchase different trees to grow (spruce, apple, maple, etc)
 * View how long they have studied during the day, week, month, and year.
 
-- Venmo
+**Venmo**
 * Request payment and pay other users
 * View their Venmo balance based on who has sent them money before transferring to their bank
 
-- Google Calendar
+**Google Calendar**
 * Easily create new events during the day and adjust event times by simply dragging boxes
 * Join a meeting link on a calendar straight from their phone
 * Move events to later dates by dragging and dropping
 
-- Adobe Lightroom
+**Adobe Lightroom**
 * Import photos from their mobile photo album and get straight to editing
 * Simply edit color and lighting settings using intuitive sliders and real time view of the edits made 
 * View other artists' edits on a scrolling feed
