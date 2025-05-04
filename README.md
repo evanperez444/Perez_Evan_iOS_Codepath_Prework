@@ -37,6 +37,13 @@ Favorite Features of some Apps:
 * Simply edit color and lighting settings using intuitive sliders and real time view of the edits made 
 * View other artists' edits on a scrolling feed
 
+
+**Agentic AI for Real Estate iOS App**
+
+* This app idea's main goal is to make real estate simpler by closing the gap between real estate agents and potential clients.
+* House hunters would be able to search for real estate listings and book a viewing appointment without waiting for any representatives to speak to or having to call real estate agents/brokers directly. Instead, users can interact with an AI agent, made by the real estate agent, who can handle bookings and answer questions specifically related to the real estate agent's preferences and guidelines. The AI agent can provide additional detailed property information, availability, neighborhood insights, and even qualify leads based on budget or location preferences. Within this app, real estate agents can set up their own AI agent by specifying their backgrounds, limitations, availability preferences, and up to date property listings. The AI agent would essentially act as the real estate agent themselves, so that while they are occupied showing a home to clients, the AI agent can handle potential clients in the background. This app would allow house hunters and real estate agents alike to focus on the most crucial steps of the house-hunting process without having to wait for responses or waste time when clients might change their minds on a listing.
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
